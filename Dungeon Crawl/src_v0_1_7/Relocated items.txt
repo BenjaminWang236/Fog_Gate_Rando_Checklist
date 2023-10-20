@@ -1,0 +1,147 @@
+1. Merchant shop
+ - Sold by the Nomadic Merchant in front of Coastal Cave
+ - Relocated to Stranded Graveyard
+2. Merchant shop
+ - Sold by Kale at the Church of Elleh
+ - Relocated to Roundtable Hold
+3. Golden Seed tree
+ - Under a Golden Seed tree along the road from Gatefront to Stormhill Shack
+ - Relocated to early in Stormveil Castle
+4. Merchant shop
+ - Sold by the Nomadic Merchant between Saintsbridge and Summonwater Village
+ - Relocated to early in Stormveil Castle
+5. Sacred Tear church
+ - At the statue in the Third Church of Marika, northeast of the Mistwood
+ - Relocated to Stormveil Castle
+6. Merchant shop
+ - Sold by the Nomadic Merchant by the Liurnia Lake Shore Site of Grace
+ - Relocated to Stormveil Castle after Godrick's arena
+7. Sacred Tear church
+ - At the interesting statue in the Church of Pilgrimage on the Weeping Peninsula north coast
+ - Relocated to early in Castle Morne
+8. Golden Seed tree
+ - Under the Golden Seed tree straight north of Castle Morne, leaning right when approaching from Castle Morne Rampart
+ - Relocated to midway through Castle Morne
+9. Sacred Tear church
+ - At the statue in the Fourth Church of Marika, near the peninsula's west coast
+ - Relocated to late in Castle Morne
+10. Merchant shop
+ - Sold by the Nomadic Merchant at Castle Morne Rampart
+ - Relocated to late in Castle Morne
+11. Sacred Tear church
+ - At the statue in Callu Baptismal Church, south of Ailing Village
+ - Relocated to Morne Moangrave
+12. Sacred Tear church
+ - At the statue in Church of Irith, south of Lake-Facing Cliffs Site of Grace
+ - Relocated to Raya Lucaria by Schoolhouse Classroom
+13. Golden Seed tree
+ - Under a Golden Seed tree to the west of the bottom of the heavily guarded stairway up to South Raya Lucaria Gate
+ - Relocated to late in Raya Lucaria
+14. Sacred Tear church
+ - At the interesting statue in Bellum Church
+ - Relocated to Raya Lucaria Grand Library
+15. Merchant shop
+ - Sold by Nomadic Merchant down the cliffside pathway from Bellum Church
+ - Relocated to Ruin-Strewn Precipice
+16. Golden Seed tree
+ - Under a Golden Seed tree near the Ravine-Veiled Village before Ruin-Strewn Precipice
+ - Relocated to Ruin-Strewn Precipice
+17. Golden Seed tree
+ - Under a Golden Seed tree, found north of the Altus Plateau Minor Erdtree
+ - Relocated to Shaded Castle
+18. Golden Seed tree
+ - Under a Golden Seed tree down the southeast road from Windmill Village
+ - Relocated to Shaded Castle
+19. Merchant shop
+ - Sold by the Hermit Merchant at the Hermit's Merchant Shack
+ - Relocated to Royal Capital Avenue
+20. Merchant shop
+ - Sold by the Isolated Merchant at the Isolated Merchant Shack near the southwest shore
+ - Relocated to Divine Bridge in Leyndell
+21. Sacred Tear church
+ - At the interesting statue in Stormcaller Church, south of Sainted Hero's Grave
+ - Relocated to Royal Capital big statue
+22. Golden Seed tree
+ - Under the Golden Seed tree at Outer Wall Phantom Tree
+ - Relocated to east of Royal Capital
+23. Golden Seed tree
+ - Under a Golden Seed tree in Forbidden Lands before the stairs to the Grand Lift of Rold
+ - Relocated to Divine Tower of East Altus Start
+24. Golden Seed tree
+ - Under a Golden Seed tree next to the Erdtree-Gazing Hill Site of Grace
+ - Relocated to Subterranean Shunning-Grounds
+25. Merchant shop
+ - Sold by the Nomadic Merchant at the southern end of the Forest-Spanning Greatbridge
+ - Relocated to Frenzied Flame Proscription
+26. Merchant shop
+ - Sold by Iji
+ - Relocated to Main Caria Manor Gate
+27. Sacred Tear church
+ - At the statue in Church of Inhibition
+ - Relocated to behind Caria Manor
+28. Golden Seed tree
+ - Under a Golden Seed tree on the road from Southern Aeonia Swamp Bank to Impassable Greatbridge
+ - Relocated to Castle Redmane graveyard
+29. Sacred Tear church
+ - At the statue in Church of the Plague
+ - Relocated to Castle Redmane
+30. Merchant shop
+ - Sold by the Nomadic Merchant southwest of southern Aeonia Swamp Bank
+ - Relocated to late in Castle Redmane
+31. Golden Seed tree
+ - Under a Golden Seed tree up the stairs at the north end of Sellia
+ - Relocated to after Castle Redmane
+32. Golden Seed tree
+ - Under a Golden Seed tree in front of Fort Haight
+ - Relocated to early in Nokron, Eternal City
+33. Merchant shop
+ - Sold by the Nomadic Merchant in the Mistwood along the road to Fort Haight
+ - Relocated to early in Nokron, Eternal City
+34. Golden Seed tree
+ - Under a Golden Seed tree, found north of the Altus Highway Junction Site of Grace
+ - Relocated to Deeproot Depths
+35. Golden Seed tree
+ - Under a Golden Seed tree before the Road of Iniquity Site of Grace
+ - Relocated to Volcano Manor by the Molten Bridge
+36. Golden Seed tree
+ - Under a Golden Tree found following Seethwater River north
+ - Relocated to Subterranean Inquisition Chamber
+37. Merchant shop
+ - Sold by the Nomadic Merchant in the long ladder section before Ninth Mt. Gelmir Campsite
+ - Relocated to Volcano Manor after Temple of Eiglay
+38. Merchant shop
+ - Sold by the Nomadic Merchant between Astray from Caelid Highway North and Aeonia Swamp Shore
+ - Relocated to Lake of Rot
+39. Merchant shop
+ - Sold by the Hermit Merchant along a cliffside to the west of Stargazer's Ruins
+ - Relocated to Castle Sol
+40. Golden Seed tree
+ - Under a Golden Seed tree overlooking a chasm along the right wall of the ascent from Ancient Snow Value Ruins, straight south from the Freezing Lake Site of Grace
+ - Relocated to Castle Sol
+41. Sacred Tear church
+ - At a statue in the First Church of Marika at the southmost end of Freezing Lake
+ - Relocated to after Castle Sol Rooftop
+42. Golden Seed tree
+ - North of Foot of the Forge Site of Grace
+ - Relocated to before Forge of the Giants
+43. Golden Seed tree
+ - Under a Golden Seed tree on the road from Farum Greatbridge from Bestial Sanctum
+ - Relocated to early in Farum Azula
+44. Sacred Tear church
+ - At the statue in Church of Repose, in southwest Flame Peak
+ - Relocated to Farum Azula Dragon Temple
+45. Merchant shop
+ - Sold by the Isolated Merchant at Isolated Merchant's Shack
+ - Relocated to late in Farum Azula
+46. Golden Seed tree
+ - Under a Golden Seed tree in Ordina, Liturgical Town
+ - Relocated to Haligtree Town
+47. Golden Seed tree
+ - Under a Golden Seed tree in the foggy area northeast of the Consecrated Snowfield Site of Grace
+ - Relocated to late in Haligtree by the graveyard
+48. Golden Seed tree
+ - Under a Golden Seed tree found up the stairs from Outer Wall Phantom Tree
+ - Relocated to east of Ashen Capital
+49. Sacred Tear church
+ - At the statue in the Second Church of Marika (blood dog haunts)
+ - Relocated to late in Ashen Capital

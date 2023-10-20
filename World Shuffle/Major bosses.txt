@@ -1,0 +1,168 @@
+1. Chapel of Anticipation
+- before Grafted Scion's arena
+2. Stormhill
+- before Margit's arena
+3. Margit, the Fell Omen
+- at the front of Margit's arena
+- at the back of Margit's arena
+4. Stormveil Castle before Gate
+- after Margit's arena
+5. Stormveil Castle after Gate
+- before Godrick's arena
+6. Godrick the Grafted
+- at the front of Godrick's arena
+7. Weeping Peninsula - Beside the Rampart Gaol
+- before Leonine Misbegotten's arena
+8. Leonine Misbegotten
+- at the front of Leonine Misbegotten's arena
+9. Academy of Raya Lucaria
+- before Red Wolf's arena
+10. Red Wolf of Radagon
+- at the front of Red Wolf's arena
+- after Red Wolf's arena
+11. Academy of Raya Lucaria after Red Wolf
+- at the back left of Red Wolf's arena
+- before Rennala's arena
+12. Academy of Raya Lucaria - Grand Library
+- at the front of Rennala's arena
+13. Ruin-Strewn Precipice
+- before Magma Worm Makar's arena
+14. Magma Wrym Makar
+- at the front of Magma Wyrm Makar's arena
+- at the back of Magma Wyrm Makar's arena
+15. After Magma Wyrm Makar
+- after Magma Worm Makar's arena
+16. Shaded Castle
+- before Elemer of the Briar's arena
+17. Shaded Castle - Elemer of the Briar
+- at the front of Elemer of the Briar's arena
+18. Leyndell
+- before Godfrey's arena from the branches
+19. Leyndell - Erdtree Sanctuary
+- in Godfrey's arena at the normal South entrance from the branches
+- in Godfrey's arena at the West entrance to the Marika statue
+- in Godfrey's arena at the rightmost East exit, the one without the branch
+- in Godfrey's arena at the leftmost East exit, the one with the branch
+- in Godfrey's arena at the Southwest exit with a shortcut ladder behind it
+- in Godfrey's arena at the Southeast exit with treasure behind it
+- in Godfrey's arena at the center East exit
+20. Leyndell - Erdtree Sanctuary Stairs
+- outside of Godfrey's arena at the stairs which go down to the Marika statue
+21. Leyndell - Behind Erdtree Sanctuary
+- outside of Godfrey's arena at the leftmost back exit, the one without the branch
+- outside of Godfrey's arena at the rightmost back exit, the one with the branch
+- outside of Godfrey's arena at the center back exit
+22. Leyndell - Queen's Bedchamber
+- outside of Godfrey's arena at the base of a shortcut ladder, accessed from an open window on a second-floor rooftop
+- before Morgott's arena
+23. Leyndell - Erdtree Sanctuary Treasure
+- outside of Godfrey's arena with a treasure item
+24. Leyndell - Elden Throne
+- at the front of Morgott's arena
+- at the back of Morgott's arena
+25. Leyndell - Erdtree Entrance
+- the path up to the Erdtree
+26. Subterranean Shunning-Grounds
+- before Mohg's arena
+27. Mohg, the Omen
+- at the front of Mohg's arena
+28. Royal Knight Loretta
+- at the front of Loretta's arena
+- at the back of Loretta's arena
+29. Liurnia - Caria Manor
+- before Loretta's arena
+30. Liurnia Behind Caria Manor
+- after Loretta's arena
+31. Before Radahn
+- using the Sending Gate before Starscourge Radahn
+32. Volcano Manor Prison Town
+- before Abductor Virgins' arena. it can be reached from main town dropping down outside Temple of Eiglay
+- before Godskin Noble's arena
+33. Volcano Manor - Abductor Virgins
+- at the front of Abductor Virgins' arena
+- at the back of Abductor Virgins' arena
+34. Volcano Manor - Temple of Eiglay
+- at the front of Godskin Noble's arena
+- at the back left of Godskin Noble's arena
+35. Volcano Manor - Temple of Eiglay Shortcut Elevator
+- after Godskin Noble's arena to the back left, down the shortcut elevator
+36. Volcano Manor - Audience Pathway
+- before Rykard's arena
+37. Rykard, Lord of Blasphemy
+- at the front of Rykard's arena
+38. Volcano Manor - After Abductor Virgins
+- after Abductor Virgins' arena
+39. Castle Sol
+- before Commander Niall's arena
+40. Commander Niall
+- at the front of Commander Niall's arena
+- at the back of Commander Niall's arena
+41. After Commander Niall
+- after Commander Niall's arena
+42. Flame Peak
+- before Fire Giant, at the left entrance with lower elevation
+- before Fire Giant, at the right entrance with higher elevation
+43. Fire Giant
+- burning the erdtree at the Forge of the Giants, or repeating the warp using the grace
+44. Farum Azula - Dragon Temple
+- before back right of Godskin Duo arena, down Dragon Temple stairs
+- before back left of Godskin Duo arena, by the crumbled stairs
+- outside the balcony above Godskin Duo's arena
+45. Godskin Duo
+- at the back right of Godskin Duo's arena
+- at the back left of Godskin Duo's arena
+- at the front right of Godskin Duo's arena
+- at the front left of Godskin Duo's arena
+46. Farum Azula - Dragon Temple Balcony
+- on the balcony above Godskin Duo's arena
+47. Farum Azula - Dragon Temple Transept
+- up the stairs from Dragon Temple Transept
+48. Farum Azula Rooftop and Bridge
+- after Godskin Duo arena
+- before Maliketh's arena
+- lying down in front of the tempest below the great bridge
+49. Maliketh the Black Blade
+- at the front of Maliketh's arena
+- warp after defeathing Maliketh, or repeating the warp using the grace
+50. Haligtree Town
+- before Loretta's arena
+51. Loretta, Knight of the Haligtree
+- at the front of Loretta's arena
+- at back of Loretta's arena
+52. After Loretta, Knight of the Haligtree
+- after Loretta's arena
+53. Elphael, Brace of the Haligtree
+- before Malenia's arena
+54. Malenia, Blade of Miquella
+- at the front of Malenia's arena
+55. Mohgwyn Palace
+- before Mohg's arena
+56. Mohg, Lord of Blood
+- at the front of Mohg's arena
+- at the back right of Mohg's arena
+- at the back left of Mohg's arena
+57. After Mohg, Lord of Blood
+- after Mohg's arena at the back right
+- after Mohg's arena at the back left
+58. Ashen Leyndell
+- at the front entrance to Gideon's arena
+59. Ashen Leyndell - Erdtree Sanctuary
+- at the front of Gideon's arena
+- in Gideon's arena at the South entrance by the branches
+- in Gideon's arena at the rightmost East exit, the one without the branch
+- in Gideon's arena at the leftmost East exit, the one with the branch
+- in Gideon's arena at the Southwest exit with a shortcut ladder behind it
+- in Gideon's arena at the Southeast exit with treasure behind it
+- in Gideon's arena at the center East exit
+60. Ashen Leyndell - South of Erdtree Sanctuary
+- at the side entrance to Gideon's arena from the branches
+61. Ashen Leyndell - Behind Erdtree Sanctuary
+- outside of Gideon's arena at the leftmost back exit, the one without the branch
+- outside of Gideon's arena at the rightmost back exit, the one with the branch
+- outside of Gideon's arena at the center back exit
+62. Ashen Leyndell - Queen's Bedchamber
+- outside of Gideon's arena at the base of a shortcut ladder, accessed from an open window on a second-floor rooftop
+- before Hoarah Loux's arena
+63. Ashen Leyndell - Elden Throne
+- at the front of Hoarah Loux's arena
+- at the back of Hoarah Loux's arena

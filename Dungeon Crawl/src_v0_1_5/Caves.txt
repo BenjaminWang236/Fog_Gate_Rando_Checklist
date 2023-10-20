@@ -1,0 +1,118 @@
+1. Limgrave - Coastal Cave
+- before Demi-Human Chiefs' arena
+- at the entrance from Limgrave
+2. Limgrave - Coastal Cave - Demi-Human Chiefs
+- at the front of Demi-Human Chiefs' arena
+- at the back of Demi-Human Chiefs' arena
+3. Limgrave - Church of Dragon Communion
+- after Coastal Cave boss to Dragon Church
+4. Liurnia - Slumbering Wolf's Shack
+- after Lakeside Crystal Cave boss
+5. Liurnia - Lakeside Crystal Cave - Bloodhound Knight
+- at the back of Bloodhound Knight's arena
+- at the front of Bloodhound Knight's arena
+6. Academy of Raya Lucaria - After Academy Crystal Cave
+- after Academy Crystal Cave boss
+7. Liurnia - Academy Crystal Cave - Crystalian Duo
+- at the back of Crystallians' arena
+- at the front of Crystallians' arena
+8. Limgrave - Murkwater Cave
+- before Patches' arena
+- at the entrance from Limgrave
+- entering a new evergaol-style object in Murkwater Cave
+9. Limgrave - Murkwater Cave - Patches
+- at the front of Patches' arena
+10. Weeping Peninsula - Earthbore Cave
+- before Runebear's arena
+- at the entrance from Weeping Peninsula
+11. Weeping Peninsula - Earthbore Cave - Runebear
+- at the front of Runebear's arena
+12. Weeping Peninsula - Tombsward Cave
+- before Miranda Blossom's arena
+- at the entrance from Weeping Peninsula
+13. Weeping Peninsula - Tombsward Cave - Miranda Blossom
+- at the front of Miranda Blossom's arena
+14. Limgrave - Groveside Cave
+- before Beastman of Farum Azula's arena
+- at the entrance from Limgrave
+- entering a new evergaol-style object in Groveside Cave
+15. Limgrave - Groveside Cave - Beastman of Farum Azula
+- at the front of Beastman of Farum Azula's arena
+16. Liurnia - Stillwater Cave
+- before Cleanrot Knight's arena
+- at the entrance from Liurnia
+- entering a new evergaol-style object in Stillwater Cave
+17. Liurnia - Stillwater Cave - Cleanrot Knight
+- at the front of Cleanrot Knight's arena
+18. Liurnia - Lakeside Crystal Cave
+- before Bloodhound Knight's arena
+- at the entrance from Liurnia
+- entering a new evergaol-style object in Lakeside Crystal Cave
+19. Liurnia - Academy Crystal Cave
+- before Crystallians' arena
+- at the entrance from Liurnia
+- entering a new evergaol-style object in Academy Crystal Cave
+20. Mt. Gelmir - Seethewater Cave
+- before Kindred of Rot Duo's arena
+- at the entrance from Mt. Gelmir
+21. Mt. Gelmir - Seethewater Cave - Kindred of Rot Duo
+- at the front of Kindred of Rot Duo's arena
+22. Mt. Gelmir - Volcano Cave
+- before Demi-Human Queen Margot's arena
+- at the entrance from Mt. Gelmir
+23. Mt. Gelmir - Volcano Cave - Demi-Human Queen Margot
+- at the front of Demi-Human Queen Margot's arena
+24. Dragonbarrow Cave
+- before Beastmen of Farum Azula's arena
+- at the entrance from Dragonbarrow
+- entering a new evergaol-style object in Dragonbarrow Cave
+25. Dragonbarrow Cave - Beastmen of Farum Azula
+- at the front of Beastmen of Farum Azula's arena
+26. Dragonbarrow - Sellia Hideaway
+- before Putrid Crystalians' arena
+- at the entrance from Dragonbarrow
+- entering a new evergaol-style object in Sellia Hideaway
+27. Dragonbarrow - Sellia Hideaway - Putrid Crystalians
+- at the front of Putrid Crystalians' arena
+28. Consecrated Snowfield - Cave of the Forlorn
+- before Misbegotten Crusader's arena
+- at the entrance from Consecrated Snowfield
+29. Consecrated Snowfield - Cave of the Forlorn - Misbegotten Crusader
+- at the front of Misbegotten Crusader's arena
+30. Limgrave - Highroad Cave
+- before Guardian Golem's arena
+- at the entrance from Limgrave
+- entering a new evergaol-style object in Highroad Cave
+31. Limgrave - Highroad Cave - Guardian Golem
+- at the front of Guardian Golem's arena
+32. Altus Plateau - Perfumer's Grotto
+- before Omenkiller and Miranda the Blighted Bloom's arena
+- at the entrance from Altus Plateau
+33. Altus Plateau - Perfumer's Grotto - Omenkiller and Miranda the Blighted Bloom
+- at the front of Omenkiller and Miranda the Blighted Bloom's arena
+34. Altus Plateau - Sage's Cave
+- before Black Knife Assassin's arena
+- before Necromancer Garris' arena
+- at the entrance from Altus Plateau
+35. Altus Plateau - Sage's Cave - Black Knife Assassin
+- at the front of Black Knife Assassin's arena
+36. Altus Plateau - Sage's Cave - Necromancer Garris
+- at the front of Necromancer Garris' arena
+37. Caelid - Abandoned Cave Start
+- at the entrance from Caelid
+38. Caelid - Abandoned Cave
+- before Cleanrot Knights' arena
+39. Caelid - Abandoned Cave - Cleanrot Knights
+- at the front of Cleanrot Knights' arena
+40. Caelid - Gaol Cave
+- before Frenzied Duelist's arena
+- at the entrance from Caelid
+41. Caelid - Gaol Cave - Above Boss
+- at the dropdown before Frenzied Duelist's arena
+42. Caelid - Gaol Cave - Frenzied Duelist
+- at the back of Frenzied Duelist's arena
+43. Mountaintops - Spiritcaller Cave
+- before Spiritcaller Snail's arena
+- at the entrance from Mountaintops of the Giants
+44. Mountaintops - Spiritcaller Cave - Spiritcaller Snail
+- at the front of Spiritcaller Snail's arena

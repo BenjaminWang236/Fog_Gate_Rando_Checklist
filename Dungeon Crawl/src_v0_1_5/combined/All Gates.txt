@@ -1,0 +1,673 @@
+1. Chapel of Anticipation
+- before Grafted Scion's arena
+- using the Pureblood Knight's Medal from anywhere
+2. Margit, the Fell Omen
+- at the front of Margit's arena
+- at the back of Margit's arena
+3. Stormveil Castle before Gate
+- after Margit's arena
+4. Stormveil Castle after Gate
+- before Godrick's arena
+- at the side path to Limgrave Divine Tower
+5. Godrick the Grafted
+- at the front of Godrick's arena
+6. Weeping Peninsula - Beside the Rampart Gaol
+- before Leonine Misbegotten's arena
+7. Leonine Misbegotten
+- at the front of Leonine Misbegotten's arena
+8. Academy of Raya Lucaria
+- before Red Wolf's arena
+- getting abducted at the bottom of the elevator. this requires dying in the bottom 30 meters, not above that
+9. Red Wolf of Radagon
+- at the front of Red Wolf's arena
+- after Red Wolf's arena
+10. Academy of Raya Lucaria after Red Wolf
+- at the back left of Red Wolf's arena
+- before Rennala's arena
+- on the steps to Raya Lucaria rooftops section
+11. Academy of Raya Lucaria - Grand Library
+- at the front of Rennala's arena
+12. Ruin-Strewn Precipice
+- before Magma Worm Makar's arena
+- at the entrance from Liurnia
+13. Magma Wrym Makar
+- at the front of Magma Wyrm Makar's arena
+- at the back of Magma Wyrm Makar's arena
+14. Shaded Castle
+- before Elemer of the Briar's arena
+- using the new sending gate before the Shaded Castle swamp
+15. Shaded Castle - Elemer of the Briar
+- at the front of Elemer of the Briar's arena
+16. Leyndell
+- before Godfrey's arena from the branches
+- at the Leyndell entrance from Capital Rampart
+- at the entrance to Subterranean Shunning-Grounds
+- at the entrance to Royal Colosseum
+17. Leyndell - Erdtree Sanctuary
+- in Godfrey's arena at the normal South entrance from the branches
+- in Godfrey's arena at the West entrance to the Marika statue
+- in Godfrey's arena at the rightmost East exit, the one without the branch
+- in Godfrey's arena at the leftmost East exit, the one with the branch
+- in Godfrey's arena at the Southwest exit with a shortcut ladder behind it
+- in Godfrey's arena at the Southeast exit with treasure behind it
+- in Godfrey's arena at the center East exit
+18. Leyndell - Erdtree Sanctuary Stairs
+- outside of Godfrey's arena at the stairs which go down to the Marika statue
+19. Leyndell - Behind Erdtree Sanctuary
+- outside of Godfrey's arena at the leftmost back exit, the one without the branch
+- outside of Godfrey's arena at the rightmost back exit, the one with the branch
+- outside of Godfrey's arena at the center back exit
+20. Leyndell - Queen's Bedchamber
+- outside of Godfrey's arena at the base of a shortcut ladder, accessed from an open window on a second-floor rooftop
+- before Morgott's arena
+21. Leyndell - Erdtree Sanctuary Treasure
+- outside of Godfrey's arena with a treasure item
+22. Leyndell - Elden Throne
+- at the front of Morgott's arena
+- at the back of Morgott's arena
+23. Leyndell - Erdtree Entrance
+- the path up to the Erdtree
+24. Subterranean Shunning-Grounds
+- before Mohg's arena
+- at the entrance from Subterranean Shunning-Grounds
+25. Mohg, the Omen
+- at the front of Mohg's arena
+26. Royal Knight Loretta
+- at the front of Loretta's arena
+- at the back of Loretta's arena
+27. Liurnia - Caria Manor
+- before Loretta's arena
+- using the new sending gate at the Caria Manor entrance
+28. Liurnia Behind Caria Manor
+- after Loretta's arena
+29. Before Radahn
+- using the Sending Gate before Starscourge Radahn
+- at the bottom of the elevator before the Radahn warp
+30. Volcano Manor Prison Town
+- before Abductor Virgins' arena. it can be reached from main town dropping down outside Temple of Eiglay
+- before Godskin Noble's arena
+31. Volcano Manor - Abductor Virgins
+- at the front of Abductor Virgins' arena
+- at the back of Abductor Virgins' arena
+32. Volcano Manor - Temple of Eiglay
+- at the front of Godskin Noble's arena
+- at the back left of Godskin Noble's arena
+33. Volcano Manor - Temple of Eiglay Shortcut Elevator
+- after Godskin Noble's arena to the back left, down the shortcut elevator
+34. Volcano Manor - Audience Pathway
+- before Rykard's arena
+35. Rykard, Lord of Blasphemy
+- at the front of Rykard's arena
+36. Castle Sol
+- before Commander Niall's arena
+- using the new sending gate at the Castle Sol entrance
+37. Commander Niall
+- at the front of Commander Niall's arena
+- at the back of Commander Niall's arena
+38. After Commander Niall
+- after Commander Niall's arena
+39. Fire Giant
+- in the left front of Fire Giant's arena, closer to the forge
+- in the right front of Fire Giant's arena, farther from the forge
+- burning the erdtree at the Forge of the Giants, or repeating the warp using the grace
+40. Farum Azula - Dragon Temple
+- before back right of Godskin Duo arena, down Dragon Temple stairs
+- before back left of Godskin Duo arena, by the crumbled stairs
+- outside the balcony above Godskin Duo's arena
+41. Godskin Duo
+- at the back right of Godskin Duo's arena
+- at the back left of Godskin Duo's arena
+- at the front right of Godskin Duo's arena
+- at the front left of Godskin Duo's arena
+42. Farum Azula - Dragon Temple Balcony
+- on the balcony above Godskin Duo's arena
+43. Farum Azula - Dragon Temple Transept
+- up the stairs from Dragon Temple Transept
+44. Farum Azula Rooftop and Bridge
+- after Godskin Duo arena
+- before Maliketh's arena
+- lying down in front of the tempest below the great bridge
+- at the Imp Seal leading up to the Dragon Temple Lift grace
+45. Maliketh the Black Blade
+- at the front of Maliketh's arena
+- warp after defeathing Maliketh, or repeating the warp using the grace
+46. Haligtree Town
+- before Loretta's arena
+47. Loretta, Knight of the Haligtree
+- at the front of Loretta's arena
+- at back of Loretta's arena
+48. After Loretta, Knight of the Haligtree
+- after Loretta's arena
+49. Elphael, Brace of the Haligtree
+- before Malenia's arena
+50. Malenia, Blade of Miquella
+- at the front of Malenia's arena
+51. Mohgwyn Palace
+- before Mohg's arena
+52. Mohg, Lord of Blood
+- at the front of Mohg's arena
+- at the back right of Mohg's arena
+- at the back left of Mohg's arena
+53. After Mohg, Lord of Blood
+- after Mohg's arena at the back right
+- after Mohg's arena at the back left
+54. Ashen Leyndell
+- at the front entrance to Gideon's arena
+- at the Ashen Capital entrance from Capital Rampart
+- at the entrance to Royal Colosseum
+55. Ashen Leyndell - Erdtree Sanctuary
+- at the front of Gideon's arena
+- in Gideon's arena at the South entrance by the branches
+- in Gideon's arena at the rightmost East exit, the one without the branch
+- in Gideon's arena at the leftmost East exit, the one with the branch
+- in Gideon's arena at the Southwest exit with a shortcut ladder behind it
+- in Gideon's arena at the Southeast exit with treasure behind it
+- in Gideon's arena at the center East exit
+56. Ashen Leyndell - South of Erdtree Sanctuary
+- at the side entrance to Gideon's arena from the branches
+57. Ashen Leyndell - Behind Erdtree Sanctuary
+- outside of Gideon's arena at the leftmost back exit, the one without the branch
+- outside of Gideon's arena at the rightmost back exit, the one with the branch
+- outside of Gideon's arena at the center back exit
+58. Ashen Leyndell - Queen's Bedchamber
+- outside of Gideon's arena at the base of a shortcut ladder, accessed from an open window on a second-floor rooftop
+- before Hoarah Loux's arena
+59. Ashen Leyndell - Elden Throne
+- at the front of Hoarah Loux's arena
+- at the back of Hoarah Loux's arena
+60. Stormveil Castle Throne Room
+- at the rear exit to Liurnia
+61. Weeping Peninsula - Castle Morne
+- at the entrance from Weeping Peninsula
+62. Academy of Raya Lucaria Main Entrance
+- using South-facing gate at Raya Lucaria Main Entrance
+- arriving at Raya Lucaria Main Academy Gate from the South
+- arriving at Raya Lucaria Main Academy Gate from the East
+- using East-facing gate at Raya Lucaria Main Entrance
+63. Academy of Raya Lucaria Rooftops
+- at the top of the steps before Raya Lucaria rooftops section
+64. Subterranean Shunning-Grounds - From Royal Capital
+- at the entrance from Leyndell, Royal Capital
+65. Castle Redmane
+- using the new sending gate on the cliffside path before Redmane Castle
+- before Redmane Castle Plaza
+- using the sending gate in Redmane Castle
+- arriving in Redmane Castle
+66. Before Volcano Manor Entrance
+- at the doorway from Mt. Gelmir
+67. Volcano Manor Drawing Room
+- at the end of the dark hallway leading to Prison Town
+68. Volcano Manor Prison Town Church
+- behind the altar coming from the manor
+69. Volcano Manor - Hallway Opposite Sending Gate
+- in the hallway towards the Imp Seal back to main Volcano Manor
+70. Volcano Manor - Room Before Sending Gate
+- on the doorway on the second story opposite the Sending Gate
+- using the Sending Gate after Volcano Manor temple
+71. Farum Azula - Dragon Temple Lift
+- down the elevator from Dragon Temple Lift grace
+72. Ashen Leyndell - before Divine Tower
+- at the base of the elevator to the Divine Tower of East Altus
+73. Divine Tower of Limgrave
+- at the entrance from Stormveil Castle
+- using the sending gate in the first half of the Divine Tower of Limgrave
+74. Carian Study Hall
+- at the entrance from Liurnia
+75. Leyndell - Divine Bridge
+- using the sending gate after unlocking the elevator in Leyndell or unlocking Ashen Divine Bridge
+76. Divine Tower of East Altus
+- approaching the Divine Tower of East Altus gate, or using the grace menu
+- at the exit to Forbidden Lands
+77. Divine Tower of Caelid
+- before Godskin Apostle's arena
+- up the stairs to Caelid Divine Tower's Two Fingers
+- at the left exit to Dragonbarrow, facing north
+- at the middle exit to Dragonbarrow
+- at the right exit to Dragonbarrow, facing north
+78. Divine Tower of Caelid - Godskin Apostle
+- at the front of Godskin Apostle's arena
+- at the back of Godskin Apostle's arena
+79. Divine Tower of Caelid Interior
+- at the door to Caelid Divine Tower's Two Fingers
+80. Divine Tower of Caelid - After Godskin Apostle
+- after Godskin Apostle's arena
+81. Divine Tower of Liurnia
+- opening the door at the bottom of the flipped tower
+82. Capital Outskirts - Sealed Tunnel - Onyx Lord
+- at the back of Onyx Lord's arena
+- at the front of Onyx Lord's arena
+83. Divine Tower of West Altus
+- after Sealed Tunnel boss
+84. Chapel of Anticipation - Grafted Scion
+- at the front of Grafted Scion's arena
+85. Roundtable Hold
+- in Roundtable Hold in the main room
+86. Roundtable Hold Balcony
+- in Roundtable Hold at the balcony overlooking the first floor
+87. Leyndell - before Divine Tower
+- at the base of the elevator to the Divine Tower of East Altus
+88. Divine Tower of East Altus Start
+- at the elevator to the Divine Tower of East Altus
+89. Castle Redmane Boss
+- at the front of Redmane Castle Plaza
+- at the back of Redmane Castle Plaza
+90. After Castle Redmane Boss
+- after Redmane Castle Plaza
+- at the bottom of the elevator before the Radahn warp
+91. Hidden Path to the Haligtree
+- at exit to Consecrated Snowfield
+- before Stray Mimic Tear's arena
+92. Siofra River
+- at the top of the Siofra River Well
+- at the top of the Deep Siofra Well
+- using Horned Remains in Siofra
+- using the sending gate after the Siofra River Bank grace
+- using the sending gate after the Worshippers' Woods grace
+- using the sending gate atop rubble before the Worshippers' Woods grace
+93. Siofra River before Ancestor Spirit
+- before Ancestor Spirit's arena
+94. Ancestor Spirit
+- at the front of Ancestor Spirit's arena
+95. Ainsel River Downstream
+- before Dragonkin of Nokstella's arena
+- at the top of the Ainsel River Well
+96. Dragonkin Soldier of Nokstella
+- at the front of Dragonkin of Nokstella's arena
+- at the back of Dragonkin of Nokstella's arena
+97. Above Ainsel River Downstream
+- after the tunnel from Ainsel River Main
+98. Ainsel River Main
+- in the tunnel leading to Ainsel River Downstream
+99. After Dragonkin Soldier of Nokstella
+- after Dragonkin of Nokstella
+100. Nokron from Limgrave
+- at the start of Nokron from Limgrave
+101. Nokron before Mimic Tear
+- before Mimic Tear's arena
+102. Mimic Tear
+- at the front of Mimic Tear's arena
+- at the side exit of Mimic Tear's arena
+103. Nokron - Ancestral Woods
+- after Mimic Tear's arena
+- using Horned Remains in Nokron
+104. Nokron - Aqueduct-Facing Cliffs
+- before Valiant Gargoyles' arena
+105. Valiant Gargoyles
+- at the main entrance of Valiant Gargoyles' arena
+- at the side entrance to Valiant Gargoyles' arena, next to the main entrance
+- resting in the coffin after defeating the boss
+106. Nokron - Aqueduct-Facing Cliffs Room
+- after Valiant Gargoyles in the small room next to the main entrance
+107. Before Regal Ancestor Spirit
+- before Regal Ancestor Spirit's arena
+108. Regal Ancestor Spirit
+- at the front of Regal Ancestor Spirit's arena
+109. Deeproot Depths
+- before the Deeproot Depths boss arena
+- resting in the coffin by the Nameless Eternal City grace
+110. Deeproot Depths - Fia's Champions
+- at the front of the Deeproot Depths boss arena
+- using the sending gate after Fia's Champions
+111. Lake of Rot
+- resting in the coffin at the bottom of the Grand Cloister
+112. Before Astel, Naturalborn of the Void
+- before Astel's arena
+113. Astel, Naturalborn of the Void
+- at the front of Astel's arena
+- at the back of Astel's arena
+114. After Astel, Naturalborn of the Void
+- after Astel's arena
+- at the top of the Deep Ainsel Well
+115. Limgrave - Fringefolk Hero's Grave
+- before Ulcerated Tree Spirit's arena
+116. Limgrave - Fringefolk Hero's Grave - Ulcerated Tree Spirit
+- at the front of Ulcerated Tree Spirit's arena
+117. Altus Plateau - Sainted Hero's Grave
+- before Ancient Hero of Zamor's arena
+- at the entrance from Altus Plateau
+118. Altus Plateau - Sainted Hero's Grave - Ancient Hero of Zamor
+- at the front of Ancient Hero of Zamor's arena
+119. Mt. Gelmir - Gelmir Hero's Grave
+- before Red Wolf of the Champion's arena
+- at the entrance from Mt. Gelmir
+120. Mt. Gelmir - Gelmir Hero's Grave - Red Wolf of the Champion
+- at the front of Red Wolf of the Champion's arena
+121. Capital Outskirts - Auriza Hero's Grave
+- before Crucible Knight Ordovis' arena
+- at the entrance from Capital Outskirts
+122. Capital Outskirts - Auriza Hero's Grave - Crucible Knight Ordovis
+- at the front of Crucible Knight Ordovis' arena
+123. Flame Peak - Giant-Conquering Hero's Grave
+- before Ancient Hero of Zamor's arena
+- at the entrance from Flame Peak
+124. Flame Peak - Giant-Conquering Hero's Grave - Ancient Hero of Zamor
+- at the front of Ancient Hero of Zamor's arena
+125. Cave of Knowledge
+- before Soldier of Godrick's arena
+- at the door to Stranded Graveyard
+126. Cave of Knowledge - Soldier of Godrick
+- at the front of Soldier of Godrick's arena
+- at the back of Soldier of Godrick's arena
+127. Stranded Graveyard
+- at the door from Cave of Knowledge
+- at the exit to Limgrave
+128. Cave of Knowledge - After Soldier of Godrick
+- after Soldier of Godrick's arena
+129. Cave of Knowledge - From Seaside Ruins
+- at the back entrance from the Seaside Ruins beach
+130. Leyndell Catacombs
+- at the entrance to Leyndell Catacombs at the bottom of the room with pipes
+- before Esgar, Priest of Blood's arena
+131. Leyndell Catacombs - Esgar, Priest of Blood
+- at the front of Esgar, Priest of Blood's arena
+132. Starscourge Radahn
+- at the far North entrance to War-Dead Catacombs
+133. Caelid - War-Dead Catacombs
+- at the entrance from Radahn's arena
+- before Putrid Tree Spirit's arena
+134. Hidden Path to the Haligtree - Stray Mimic Tear
+- at the front of Stray Mimic Tear's arena
+135. Weeping Peninsula - Tombsward Catacombs
+- before Cemetery Shade's arena
+- at the entrance from Weeping Peninsula
+- entering a new evergaol-style object in Tombsward Catacombs
+136. Weeping Peninsula - Tombsward Catacombs - Cemetery Shade
+- at the front of Cemetery Shade's arena
+137. Weeping Peninsula - Impaler's Catacombs
+- before Erdtree Burial Watchdog's arena
+- at the entrance from Weeping Peninsula
+- entering a new evergaol-style object in Impaler's Catacombs
+138. Weeping Peninsula - Impaler's Catacombs - Erdtree Burial Watchdog
+- at the front of Erdtree Burial Watchdog's arena
+139. Limgrave - Stormfoot Catacombs
+- before Erdtree Burial Watchdog's arena
+- at the entrance from Limgrave
+- entering a new evergaol-style object in Stormfoot Catacombs
+140. Limgrave - Stormfoot Catacombs - Erdtree Burial Watchdog
+- at the front of Erdtree Burial Watchdog's arena
+141. Liurnia - Road's End Catacombs
+- before Spiritcaller Snail's arena
+- at the entrance from Liurnia
+142. Liurnia - Road's End Catacombs - Spiritcaller Snail
+- at the front of Spiritcaller Snail's arena
+143. Limgrave - Murkwater Catacombs
+- before Grave Warden Duelist's arena
+- at the entrance from Limgrave
+- entering a new evergaol-style object in Murkwater Catacombs
+144. Limgrave - Murkwater Catacombs - Grave Warden Duelist
+- at the front of Grave Warden Duelist's arena
+145. Liurnia - Black Knife Catacombs
+- before Cemetery Shade's arena
+- before Black Knife Assassin's arena
+- at the entrance from Liurnia
+146. Liurnia - Black Knife Catacombs - Cemetery Shade
+- at the front of Cemetery Shade's arena
+147. Liurnia - Black Knife Catacombs - Black Knife Assassin
+- at the front of Black Knife Assassin's arena
+148. Liurnia - Cliffbottom Catacombs
+- before Erdtree Burial Watchdog's arena
+- at the entrance from Liurnia
+- entering a new evergaol-style object in Cliffbottom Catacombs
+149. Liurnia - Cliffbottom Catacombs - Erdtree Burial Watchdog
+- at the front of Erdtree Burial Watchdog's arena
+150. Mt. Gelmir - Wyndham Catacombs
+- before Erdtree Burial Watchdog's arena
+- at the entrance from Mt. Gelmir
+151. Mt. Gelmir - Wyndham Catacombs - Erdtree Burial Watchdog
+- at the front of Erdtree Burial Watchdog's arena
+152. Stormhill - Deathtouched Catacombs
+- before Black Knife Assassin's arena
+- at the entrance from Stormhill
+153. Stormhill - Deathtouched Catacombs - Black Knife Assassin
+- at the front of Black Knife Assassin's arena
+154. Altus Plateau - Unsightly Catacombs
+- before Perfumer Tricia and Misbegotten Warrior's arena
+- at the entrance from Altus Plateau
+- entering a new evergaol-style object in Unsightly Catacombs
+155. Altus Plateau - Unsightly Catacombs - Perfumer Tricia and Misbegotten Warrior
+- at the front of Perfumer Tricia and Misbegotten Warrior's arena
+156. Capital Outskirts - Auriza Side Tomb
+- before Grave Warden Duelist's arena
+- at the entrance from Capital Outskirts
+- using the chest in the actual entrance
+157. Capital Outskirts - Auriza Side Tomb - Grave Warden Duelist
+- at the front of Grave Warden Duelist's arena
+158. Capital Outskirts - Auriza Side Tomb - Main Second Floor
+- using the chest up the ladder from the main second floor
+- using the chest overlooking the main hallway
+159. Capital Outskirts - Auriza Side Tomb - Dupe Entrance
+- using the chest in the duplicate entrance area
+160. Capital Outskirts - Auriza Side Tomb - Dupe First Floor
+- using the chest at the end of the duplicate hallway
+- using the chest behind the illusory wall
+161. Capital Outskirts - Auriza Side Tomb - Dupe Jail and Lever
+- using the chest in the duplicate jail
+162. Caelid - Minor Erdtree Catacombs
+- before Erdtree Burial Watchdogs' arena
+- at the entrance from Caelid
+163. Caelid - Minor Erdtree Catacombs - Erdtree Burial Watchdogs
+- at the front of Erdtree Burial Watchdogs' arena
+164. Caelid Catacombs
+- before Cemetery Shade's arena
+- at the entrance from Caelid
+165. Caelid Catacombs - Cemetery Shade
+- at the front of Cemetery Shade's arena
+166. Caelid - War-Dead Catacombs - Putrid Tree Spirit
+- at the front of Putrid Tree Spirit's arena
+167. Flame Peak - Giants' Mountaintop Catacombs
+- before Ulcerated Tree Spirit's arena
+- at the entrance from Mountaintops of the Giants
+- entering a new evergaol-style object in Giants' Mountaintop Catacombs
+168. Flame Peak - Giants' Mountaintop Catacombs - Ulcerated Tree Spirit
+- at the front of Ulcerated Tree Spirit's arena
+169. Consecrated Snowfield Catacombs
+- before Putrid Grave Warden Duelist's arena
+- at the entrance from Consecrated Snowfield
+- entering a new evergaol-style object in Consecrated Snowfield Catacombs
+170. Consecrated Snowfield Catacombs - Putrid Grave Warden Duelist
+- at the front of Putrid Grave Warden Duelist's arena
+171. Limgrave - Coastal Cave
+- before Demi-Human Chiefs' arena
+- at the entrance from Limgrave
+172. Limgrave - Coastal Cave - Demi-Human Chiefs
+- at the front of Demi-Human Chiefs' arena
+- at the back of Demi-Human Chiefs' arena
+173. Limgrave - Church of Dragon Communion
+- after Coastal Cave boss to Dragon Church
+174. Liurnia - Slumbering Wolf's Shack
+- after Lakeside Crystal Cave boss
+175. Liurnia - Lakeside Crystal Cave - Bloodhound Knight
+- at the back of Bloodhound Knight's arena
+- at the front of Bloodhound Knight's arena
+176. Academy of Raya Lucaria - After Academy Crystal Cave
+- after Academy Crystal Cave boss
+177. Liurnia - Academy Crystal Cave - Crystalian Duo
+- at the back of Crystallians' arena
+- at the front of Crystallians' arena
+178. Limgrave - Murkwater Cave
+- before Patches' arena
+- at the entrance from Limgrave
+- entering a new evergaol-style object in Murkwater Cave
+179. Limgrave - Murkwater Cave - Patches
+- at the front of Patches' arena
+180. Weeping Peninsula - Earthbore Cave
+- before Runebear's arena
+- at the entrance from Weeping Peninsula
+181. Weeping Peninsula - Earthbore Cave - Runebear
+- at the front of Runebear's arena
+182. Weeping Peninsula - Tombsward Cave
+- before Miranda Blossom's arena
+- at the entrance from Weeping Peninsula
+183. Weeping Peninsula - Tombsward Cave - Miranda Blossom
+- at the front of Miranda Blossom's arena
+184. Limgrave - Groveside Cave
+- before Beastman of Farum Azula's arena
+- at the entrance from Limgrave
+- entering a new evergaol-style object in Groveside Cave
+185. Limgrave - Groveside Cave - Beastman of Farum Azula
+- at the front of Beastman of Farum Azula's arena
+186. Liurnia - Stillwater Cave
+- before Cleanrot Knight's arena
+- at the entrance from Liurnia
+- entering a new evergaol-style object in Stillwater Cave
+187. Liurnia - Stillwater Cave - Cleanrot Knight
+- at the front of Cleanrot Knight's arena
+188. Liurnia - Lakeside Crystal Cave
+- before Bloodhound Knight's arena
+- at the entrance from Liurnia
+- entering a new evergaol-style object in Lakeside Crystal Cave
+189. Liurnia - Academy Crystal Cave
+- before Crystallians' arena
+- at the entrance from Liurnia
+- entering a new evergaol-style object in Academy Crystal Cave
+190. Mt. Gelmir - Seethewater Cave
+- before Kindred of Rot Duo's arena
+- at the entrance from Mt. Gelmir
+191. Mt. Gelmir - Seethewater Cave - Kindred of Rot Duo
+- at the front of Kindred of Rot Duo's arena
+192. Mt. Gelmir - Volcano Cave
+- before Demi-Human Queen Margot's arena
+- at the entrance from Mt. Gelmir
+193. Mt. Gelmir - Volcano Cave - Demi-Human Queen Margot
+- at the front of Demi-Human Queen Margot's arena
+194. Dragonbarrow Cave
+- before Beastmen of Farum Azula's arena
+- at the entrance from Dragonbarrow
+- entering a new evergaol-style object in Dragonbarrow Cave
+195. Dragonbarrow Cave - Beastmen of Farum Azula
+- at the front of Beastmen of Farum Azula's arena
+196. Dragonbarrow - Sellia Hideaway
+- before Putrid Crystalians' arena
+- at the entrance from Dragonbarrow
+- entering a new evergaol-style object in Sellia Hideaway
+197. Dragonbarrow - Sellia Hideaway - Putrid Crystalians
+- at the front of Putrid Crystalians' arena
+198. Consecrated Snowfield - Cave of the Forlorn
+- before Misbegotten Crusader's arena
+- at the entrance from Consecrated Snowfield
+199. Consecrated Snowfield - Cave of the Forlorn - Misbegotten Crusader
+- at the front of Misbegotten Crusader's arena
+200. Limgrave - Highroad Cave
+- before Guardian Golem's arena
+- at the entrance from Limgrave
+- entering a new evergaol-style object in Highroad Cave
+201. Limgrave - Highroad Cave - Guardian Golem
+- at the front of Guardian Golem's arena
+202. Altus Plateau - Perfumer's Grotto
+- before Omenkiller and Miranda the Blighted Bloom's arena
+- at the entrance from Altus Plateau
+203. Altus Plateau - Perfumer's Grotto - Omenkiller and Miranda the Blighted Bloom
+- at the front of Omenkiller and Miranda the Blighted Bloom's arena
+204. Altus Plateau - Sage's Cave
+- before Black Knife Assassin's arena
+- before Necromancer Garris' arena
+- at the entrance from Altus Plateau
+205. Altus Plateau - Sage's Cave - Black Knife Assassin
+- at the front of Black Knife Assassin's arena
+206. Altus Plateau - Sage's Cave - Necromancer Garris
+- at the front of Necromancer Garris' arena
+207. Caelid - Abandoned Cave Start
+- at the entrance from Caelid
+208. Caelid - Abandoned Cave
+- before Cleanrot Knights' arena
+209. Caelid - Abandoned Cave - Cleanrot Knights
+- at the front of Cleanrot Knights' arena
+210. Caelid - Gaol Cave
+- before Frenzied Duelist's arena
+- at the entrance from Caelid
+211. Caelid - Gaol Cave - Above Boss
+- at the dropdown before Frenzied Duelist's arena
+212. Caelid - Gaol Cave - Frenzied Duelist
+- at the back of Frenzied Duelist's arena
+213. Mountaintops - Spiritcaller Cave
+- before Spiritcaller Snail's arena
+- at the entrance from Mountaintops of the Giants
+214. Mountaintops - Spiritcaller Cave - Spiritcaller Snail
+- at the front of Spiritcaller Snail's arena
+215. Capital Outskirts - Sealed Tunnel
+- at the entrance from Capital Outskirts
+216. Capital Outskirts - Sealed Tunnel Before Boss
+- before Onyx Lord's arena
+217. Weeping Peninsula - Morne Tunnel
+- before Scaly Misbegotten's arena
+- at the entrance from Weeping Peninsula
+218. Weeping Peninsula - Morne Tunnel - Scaly Misbegotten
+- at the front of Scaly Misbegotten's arena
+219. Limgrave Tunnels
+- before Stonedigger Troll's arena
+- at the entrance from Limgrave
+220. Limgrave Tunnels - Stonedigger Troll
+- at the front of Stonedigger Troll's arena
+221. Liurnia - Raya Lucaria Crystal Tunnel
+- before Crystalian's arena
+- at the entrance from Liurnia
+222. Liurnia - Raya Lucaria Crystal Tunnel - Crystalian
+- at the front of Crystalian's arena
+223. Old Altus Tunnel
+- before Stonedigger Troll's arena
+- at the entrance from Altus Plateau
+224. Old Altus Tunnel - Stonedigger Troll
+- at the front of Stonedigger Troll's arena
+225. Altus Tunnel
+- before Crystalian Duo's arena
+- at the entrance from Altus Plateau
+226. Altus Tunnel - Crystalian Duo
+- at the front of Crystalian Duo's arena
+227. Caelid - Gael Tunnel Start
+- at the entrance from Caelid
+228. Caelid - Gael Tunnel
+- before Magma Wyrm's arena
+229. Caelid - Gael Tunnel - Magma Wyrm
+- at the front of Magma Wyrm's arena
+230. Caelid - Rear Gael Tunnel
+- at the Gael Tunnel rear exit, North of the Third Church of Marika
+231. Caelid - Sellia Crystal Tunnel
+- before Fallingstar Beast's arena
+- at the entrance from Caelid
+232. Caelid - Sellia Crystal Tunnel - Fallingstar Beast
+- at the front of Fallingstar Beast's arena
+233. Consecrated Snowfield - Yelough Anix Tunnel
+- before Astel, Stars of Darkness' arena
+- at the entrance from Consecrated Snowfield
+234. Consecrated Snowfield - Yelough Anix Tunnel - Astel, Stars of Darkness
+- at the front of Astel, Stars of Darkness' arena
+235. Limgrave - Waypoint Ruins - Mad Pumpkin Head
+- at the front of Mad Pumpkin Head's arena
+- at the back of Mad Pumpkin Head's arena
+236. Limgrave - Waypoint Ruins - Sellen
+- after Mad Pumpkin Head's arena in Waypoint Ruins
+237. Liurnia - Kingsrealm Ruins - Royal Revenant
+- at the front of Royal Revenant's arena
+- at the back of Royal Revenant's arena
+238. Liurnia - Kingsrealm Ruins - After Boss
+- after Royal Revenant's arena in Kingsrealm Ruins
+239. Caelid - Sellia Chair-Crypt - Nox Duo
+- at the back of Nox Duo's arena
+- at the front of Nox Duo's arena
+240. Caelid - Sellia Chair-Crypt - After Boss
+- after Nox Duo's arena in Sellia Chair-Crypt
+241. Caelid - Caelem Ruins - Mad Pumpkin Heads
+- at the front of Mad Pumpkin Heads' arena
+- at the back of Mad Pumpkin Heads' arena
+242. Caelid - Caelem Ruins - After Boss
+- after Mad Pumpkin Heads' arena in Caelem Ruins
+243. Altus Plateau - Lux Ruins - Demi-Human Queen Gilika
+- at the front of Demi-Human Queen Gilika's arena
+- at the back of Demi-Human Queen Gilika's arena
+244. Altus Plateau - Lux Ruins - After Boss
+- after Demi-Human Queen Gilika's arena in Lux Ruins
+245. Altus Plateau - Writheblood Ruins - Sanguine Noble
+- at the front of Sanguine Noble's arena
+- at the back of Sanguine Noble's arena
+246. Altus Plateau - Writheblood Ruins - After Boss
+- after Sanguine Noble's arena in Writheblood Ruins
+247. Nokron - Night's Sacred Grounds
+- using the sending gate before the Fingerslayer Blade chest
+248. Capital Outskirts - Auriza Side Tomb - Main First Floor
+- using the chest before the main hallway
+- using the chest at the end of the main hallway
+- using the chest behind the illusory wall
+249. Capital Outskirts - Auriza Side Tomb - Main Jail
+- using the chest in the main jail
+250. Capital Outskirts - Auriza Side Tomb - Dupe Second Floor
+- using the chest overlooking the duplicate hallway

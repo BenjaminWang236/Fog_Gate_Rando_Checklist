@@ -1,0 +1,256 @@
+1. Chapel of Anticipation
+- before Grafted Scion's arena
+- using the Pureblood Knight's Medal from anywhere
+2. Stormhill
+- before Margit's arena
+- along the side path to Liurnia. go backwards by double-jumping to a Torrent-sized nook to the left of the ruined bridge pillar
+3. Margit, the Fell Omen
+- at the front of Margit's arena
+- at the back of Margit's arena
+4. Stormveil Castle before Gate
+- after Margit's arena
+5. Stormveil Castle after Gate
+- before Godrick's arena
+6. Godrick the Grafted
+- at the front of Godrick's arena
+7. Weeping Peninsula - Beside the Rampart Gaol
+- before Leonine Misbegotten's arena
+8. Leonine Misbegotten
+- at the front of Leonine Misbegotten's arena
+9. Academy of Raya Lucaria
+- before Red Wolf's arena
+- getting abducted at the bottom of the elevator. this requires dying in the bottom 30 meters, not above that
+10. Red Wolf of Radagon
+- at the front of Red Wolf's arena
+- after Red Wolf's arena
+11. Academy of Raya Lucaria after Red Wolf
+- at the back left of Red Wolf's arena
+- before Rennala's arena
+- on the steps to Raya Lucaria rooftops section
+- using the sending gate before the elevator to Grand Library
+12. Academy of Raya Lucaria - Grand Library
+- at the front of Rennala's arena
+13. Ruin-Strewn Precipice
+- before Magma Worm Makar's arena
+- at the entrance from Liurnia
+14. Magma Wrym Makar
+- at the front of Magma Wyrm Makar's arena
+- at the back of Magma Wyrm Makar's arena
+15. After Magma Wyrm Makar
+- after Magma Worm Makar's arena
+16. Shaded Castle
+- before Elemer of the Briar's arena
+17. Shaded Castle - Elemer of the Briar
+- at the front of Elemer of the Briar's arena
+18. Leyndell
+- before Godfrey's arena from the branches
+- at the Leyndell entrance from Capital Rampart
+- at the entrance to Subterranean Shunning-Grounds
+19. Leyndell - Erdtree Sanctuary
+- in Godfrey's arena at the normal South entrance from the branches
+- in Godfrey's arena at the West entrance to the Marika statue
+- in Godfrey's arena at the rightmost East exit, the one without the branch
+- in Godfrey's arena at the leftmost East exit, the one with the branch
+- in Godfrey's arena at the Southwest exit with a shortcut ladder behind it
+- in Godfrey's arena at the Southeast exit with treasure behind it
+- in Godfrey's arena at the center East exit
+20. Leyndell - Erdtree Sanctuary Stairs
+- outside of Godfrey's arena at the stairs which go down to the Marika statue
+21. Leyndell - Behind Erdtree Sanctuary
+- outside of Godfrey's arena at the leftmost back exit, the one without the branch
+- outside of Godfrey's arena at the rightmost back exit, the one with the branch
+- outside of Godfrey's arena at the center back exit
+22. Leyndell - Queen's Bedchamber
+- outside of Godfrey's arena at the base of a shortcut ladder, accessed from an open window on a second-floor rooftop
+- before Morgott's arena
+23. Leyndell - Erdtree Sanctuary Treasure
+- outside of Godfrey's arena with a treasure item
+24. Leyndell - Elden Throne
+- at the front of Morgott's arena
+- at the back of Morgott's arena
+25. Leyndell - Erdtree Entrance
+- the path up to the Erdtree
+26. Subterranean Shunning-Grounds
+- before Mohg's arena
+27. Mohg, the Omen
+- at the front of Mohg's arena
+28. Royal Knight Loretta
+- at the front of Loretta's arena
+- at the back of Loretta's arena
+29. Liurnia - Caria Manor
+- before Loretta's arena
+30. Liurnia Behind Caria Manor
+- after Loretta's arena
+31. Before Radahn
+- using the Sending Gate before Starscourge Radahn
+- at the bottom of the elevator before the Radahn warp
+32. Volcano Manor Prison Town
+- before Abductor Virgins' arena. it can be reached from main town dropping down outside Temple of Eiglay
+- before Godskin Noble's arena
+33. Volcano Manor - Abductor Virgins
+- at the front of Abductor Virgins' arena
+- at the back of Abductor Virgins' arena
+34. Volcano Manor - Temple of Eiglay
+- at the front of Godskin Noble's arena
+- at the back left of Godskin Noble's arena
+35. Volcano Manor - Temple of Eiglay Shortcut Elevator
+- after Godskin Noble's arena to the back left, down the shortcut elevator
+36. Volcano Manor - Audience Pathway
+- before Rykard's arena
+37. Rykard, Lord of Blasphemy
+- at the front of Rykard's arena
+38. Volcano Manor - After Abductor Virgins
+- after Abductor Virgins' arena
+39. Castle Sol
+- before Commander Niall's arena
+40. Commander Niall
+- at the front of Commander Niall's arena
+- at the back of Commander Niall's arena
+41. After Commander Niall
+- after Commander Niall's arena
+42. Flame Peak
+- before Fire Giant, at the left entrance with lower elevation
+- before Fire Giant, at the right entrance with higher elevation
+43. Fire Giant
+- burning the erdtree at the Forge of the Giants, or repeating the warp using the grace
+44. Farum Azula - Dragon Temple
+- before back right of Godskin Duo arena, down Dragon Temple stairs
+- before back left of Godskin Duo arena, by the crumbled stairs
+- outside the balcony above Godskin Duo's arena
+45. Godskin Duo
+- at the back right of Godskin Duo's arena
+- at the back left of Godskin Duo's arena
+- at the front right of Godskin Duo's arena
+- at the front left of Godskin Duo's arena
+46. Farum Azula - Dragon Temple Balcony
+- on the balcony above Godskin Duo's arena
+47. Farum Azula - Dragon Temple Transept
+- up the stairs from Dragon Temple Transept
+48. Farum Azula Rooftop and Bridge
+- after Godskin Duo arena
+- before Maliketh's arena
+- lying down in front of the tempest below the great bridge
+- at the Imp Seal leading up to the Dragon Temple Lift grace
+49. Maliketh the Black Blade
+- at the front of Maliketh's arena
+- warp after defeathing Maliketh, or repeating the warp using the grace
+50. Haligtree Town
+- before Loretta's arena
+51. Loretta, Knight of the Haligtree
+- at the front of Loretta's arena
+- at back of Loretta's arena
+52. After Loretta, Knight of the Haligtree
+- after Loretta's arena
+53. Elphael, Brace of the Haligtree
+- before Malenia's arena
+54. Malenia, Blade of Miquella
+- at the front of Malenia's arena
+55. Mohgwyn Palace
+- before Mohg's arena
+56. Mohg, Lord of Blood
+- at the front of Mohg's arena
+- at the back right of Mohg's arena
+- at the back left of Mohg's arena
+57. After Mohg, Lord of Blood
+- after Mohg's arena at the back right
+- after Mohg's arena at the back left
+58. Ashen Leyndell
+- at the front entrance to Gideon's arena
+- at the Ashen Capital entrance from Capital Rampart
+59. Ashen Leyndell - Erdtree Sanctuary
+- at the front of Gideon's arena
+- in Gideon's arena at the South entrance by the branches
+- in Gideon's arena at the rightmost East exit, the one without the branch
+- in Gideon's arena at the leftmost East exit, the one with the branch
+- in Gideon's arena at the Southwest exit with a shortcut ladder behind it
+- in Gideon's arena at the Southeast exit with treasure behind it
+- in Gideon's arena at the center East exit
+60. Ashen Leyndell - South of Erdtree Sanctuary
+- at the side entrance to Gideon's arena from the branches
+61. Ashen Leyndell - Behind Erdtree Sanctuary
+- outside of Gideon's arena at the leftmost back exit, the one without the branch
+- outside of Gideon's arena at the rightmost back exit, the one with the branch
+- outside of Gideon's arena at the center back exit
+62. Ashen Leyndell - Queen's Bedchamber
+- outside of Gideon's arena at the base of a shortcut ladder, accessed from an open window on a second-floor rooftop
+- before Hoarah Loux's arena
+63. Ashen Leyndell - Elden Throne
+- at the front of Hoarah Loux's arena
+- at the back of Hoarah Loux's arena
+64. Stormveil Castle Throne Room
+- at the rear exit to Liurnia
+65. Liurnia
+- at the Stormveil Castle rear exit
+- using South Raya Lucaria Gate
+- along the side path from Stormhill
+- at the Ruin-Strewn Precipice entrance
+66. Weeping Peninsula
+- opening the transporter chest atop the Tower of Return
+67. Bellum Highway
+- using East Raya Lucaria Gate
+- using the Dectus Medallion in Bellum Highway
+68. Academy of Raya Lucaria Main Entrance
+- using South-facing gate at Raya Lucaria Main Entrance
+- using East-facing gate at Raya Lucaria Main Entrance
+69. Academy of Raya Lucaria Rooftops
+- at the top of the steps before Raya Lucaria rooftops section
+70. Leyndell Start
+- at the Leyndell entrance from Capital Rampart
+71. Subterranean Shunning-Grounds - From Royal Capital
+- at the entrance from Leyndell, Royal Capital
+72. Mt. Gelmir
+- at the entrance to Volcano Manor
+73. Before Volcano Manor Entrance
+- at the doorway from Mt. Gelmir
+74. Volcano Manor Drawing Room
+- at the end of the dark hallway leading to Prison Town
+75. Volcano Manor Prison Town Church
+- behind the altar coming from the manor
+76. Volcano Manor - Hallway Opposite Sending Gate
+- in the hallway towards the Imp Seal back to main Volcano Manor
+77. Volcano Manor - Room Before Sending Gate
+- on the doorway on the second story opposite the Sending Gate
+- using the Sending Gate after Volcano Manor temple
+78. Farum Azula - Dragon Temple Lift
+- down the elevator from Dragon Temple Lift grace
+79. Consecrated Snowfield
+- using the Sending Gate in Ordina
+- at Hidden Path to Haligtree dungeon exit
+- using the sending gate on the west cliffside
+- entering Ordina Evergaol
+80. Ashen Leyndell - before Divine Tower
+- at the base of the elevator to the Divine Tower of East Altus
+81. Roundtable Hold
+- in Roundtable Hold in the main room
+82. Roundtable Hold Balcony
+- in Roundtable Hold at the balcony overlooking the first floor
+83. Altus Plateau
+- using the Dectus Medallion in Altus Plateau
+84. Capital Outskirts
+- up the stairs behind Draconic Tree Sentinel
+85. Capital Outskirts - Capital Rampart
+- after Draconic Tree Sentinel
+86. Leyndell - before Divine Tower
+- at the base of the elevator to the Divine Tower of East Altus
+87. Divine Tower of East Altus Start
+- at the elevator to the Divine Tower of East Altus
+88. Divine Tower of East Altus
+- at the exit to Forbidden Lands
+89. Forbidden Lands
+- at the exit from Divine Tower of East Altus
+- using the Rold Medallion at Forbidden Lands
+- using the Haligtree secret medallions at Forbidden Lands
+90. Castle Redmane
+- before Redmane Castle Plaza
+91. Castle Redmane Boss
+- at the front of Redmane Castle Plaza
+- at the back of Redmane Castle Plaza
+92. After Castle Redmane Boss
+- after Redmane Castle Plaza
+- at the bottom of the elevator before the Radahn warp
+93. Mountaintops of the Giants
+- using the Rold Medallion at Mountaintops of the Giants
+94. Hidden Path to the Haligtree
+- at exit to Consecrated Snowfield
+95. Hidden Path to the Haligtree - Rold Elevator
+- using the Haligtree secret medallions at Hidden Path to the Haligtree

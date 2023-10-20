@@ -1,0 +1,108 @@
+1. Subterranean Shunning-Grounds
+- at the entrance to Leyndell Catacombs at the bottom of the room with the pipes
+2. Leyndell Catacombs
+- at the entrance from Subterranean Shunning-Grounds
+- before Esgar, Priest of Blood's arena
+3. Leyndell Catacombs - Esgar, Priest of Blood
+- at the front of Esgar, Priest of Blood's arena
+4. Starscourge Radahn
+- at the far North entrance to War-Dead Catacombs
+5. Caelid - War-Dead Catacombs
+- at the entrance from Radahn's arena
+- before Putrid Tree Spirit's arena
+6. Hidden Path to the Haligtree
+- before Stray Mimic Tear's arena
+7. Hidden Path to the Haligtree - Stray Mimic Tear
+- at the front of Stray Mimic Tear's arena
+8. Weeping Peninsula - Tombsward Catacombs
+- before Cemetery Shade's arena
+- at the entrance from Weeping Peninsula
+- entering a new evergaol-style object in Tombsward Catacombs
+9. Weeping Peninsula - Tombsward Catacombs - Cemetery Shade
+- at the front of Cemetery Shade's arena
+10. Weeping Peninsula - Impaler's Catacombs
+- before Erdtree Burial Watchdog's arena
+- at the entrance from Weeping Peninsula
+- entering a new evergaol-style object in Impaler's Catacombs
+11. Weeping Peninsula - Impaler's Catacombs - Erdtree Burial Watchdog
+- at the front of Erdtree Burial Watchdog's arena
+12. Limgrave - Stormfoot Catacombs
+- before Erdtree Burial Watchdog's arena
+- at the entrance from Limgrave
+- entering a new evergaol-style object in Stormfoot Catacombs
+13. Limgrave - Stormfoot Catacombs - Erdtree Burial Watchdog
+- at the front of Erdtree Burial Watchdog's arena
+14. Liurnia - Road's End Catacombs
+- before Spiritcaller Snail's arena
+- at the entrance from Liurnia
+15. Liurnia - Road's End Catacombs - Spiritcaller Snail
+- at the front of Spiritcaller Snail's arena
+16. Limgrave - Murkwater Catacombs
+- before Grave Warden Duelist's arena
+- at the entrance from Limgrave
+- entering a new evergaol-style object in Murkwater Catacombs
+17. Limgrave - Murkwater Catacombs - Grave Warden Duelist
+- at the front of Grave Warden Duelist's arena
+18. Liurnia - Black Knife Catacombs
+- before Cemetery Shade's arena
+- before Black Knife Assassin's arena
+- at the entrance from Liurnia
+19. Liurnia - Black Knife Catacombs - Cemetery Shade
+- at the front of Cemetery Shade's arena
+20. Liurnia - Black Knife Catacombs - Black Knife Assassin
+- at the front of Black Knife Assassin's arena
+21. Liurnia - Cliffbottom Catacombs
+- before Erdtree Burial Watchdog's arena
+- at the entrance from Liurnia
+- entering a new evergaol-style object in Cliffbottom Catacombs
+22. Liurnia - Cliffbottom Catacombs - Erdtree Burial Watchdog
+- at the front of Erdtree Burial Watchdog's arena
+23. Mt. Gelmir - Wyndham Catacombs
+- before Erdtree Burial Watchdog's arena
+- at the entrance from Mt. Gelmir
+24. Mt. Gelmir - Wyndham Catacombs - Erdtree Burial Watchdog
+- at the front of Erdtree Burial Watchdog's arena
+25. Stormhill - Deathtouched Catacombs
+- before Black Knife Assassin's arena
+- at the entrance from Stormhill
+26. Stormhill - Deathtouched Catacombs - Black Knife Assassin
+- at the front of Black Knife Assassin's arena
+27. Altus Plateau - Unsightly Catacombs
+- before Perfumer Tricia and Misbegotten Warrior's arena
+- at the entrance from Altus Plateau
+- entering a new evergaol-style object in Unsightly Catacombs
+28. Altus Plateau - Unsightly Catacombs - Perfumer Tricia and Misbegotten Warrior
+- at the front of Perfumer Tricia and Misbegotten Warrior's arena
+29. Capital Outskirts - Auriza Side Tomb
+- before Grave Warden Duelist's arena
+- at the entrance from Capital Outskirts
+30. Capital Outskirts - Auriza Side Tomb - Grave Warden Duelist
+- at the front of Grave Warden Duelist's arena
+31. Capital Outskirts - Auriza Side Tomb - Dupe First Floor
+- using the chest at the end of the duplicate hallway
+32. Capital Outskirts - Auriza Side Tomb - Dupe Jail and Lever
+- using the chest in the duplicate jail
+33. Caelid - Minor Erdtree Catacombs
+- before Erdtree Burial Watchdogs' arena
+- at the entrance from Caelid
+34. Caelid - Minor Erdtree Catacombs - Erdtree Burial Watchdogs
+- at the front of Erdtree Burial Watchdogs' arena
+35. Caelid Catacombs
+- before Cemetery Shade's arena
+- at the entrance from Caelid
+36. Caelid Catacombs - Cemetery Shade
+- at the front of Cemetery Shade's arena
+37. Caelid - War-Dead Catacombs - Putrid Tree Spirit
+- at the front of Putrid Tree Spirit's arena
+38. Flame Peak - Giants' Mountaintop Catacombs
+- before Ulcerated Tree Spirit's arena
+- at the entrance from Mountaintops of the Giants
+- entering a new evergaol-style object in Giants' Mountaintop Catacombs
+39. Flame Peak - Giants' Mountaintop Catacombs - Ulcerated Tree Spirit
+- at the front of Ulcerated Tree Spirit's arena
+40. Consecrated Snowfield Catacombs
+- before Putrid Grave Warden Duelist's arena
+- at the entrance from Consecrated Snowfield
+- entering a new evergaol-style object in Consecrated Snowfield Catacombs
+41. Consecrated Snowfield Catacombs - Putrid Grave Warden Duelist
+- at the front of Putrid Grave Warden Duelist's arena

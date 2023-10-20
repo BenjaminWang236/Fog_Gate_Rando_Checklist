@@ -1,0 +1,50 @@
+1. Capital Outskirts - Sealed Tunnel
+- at the entrance from Capital Outskirts
+2. Capital Outskirts - Sealed Tunnel Before Boss
+- before Onyx Lord's arena
+3. Capital Outskirts - Sealed Tunnel - Onyx Lord
+- at the front of Onyx Lord's arena
+- at the back of Onyx Lord's arena
+4. Weeping Peninsula - Morne Tunnel
+- before Scaly Misbegotten's arena
+- at the entrance from Weeping Peninsula
+5. Weeping Peninsula - Morne Tunnel - Scaly Misbegotten
+- at the front of Scaly Misbegotten's arena
+6. Limgrave Tunnels
+- before Stonedigger Troll's arena
+- at the entrance from Limgrave
+7. Limgrave Tunnels - Stonedigger Troll
+- at the front of Stonedigger Troll's arena
+8. Liurnia - Raya Lucaria Crystal Tunnel
+- before Crystalian's arena
+- at the entrance from Liurnia
+9. Liurnia - Raya Lucaria Crystal Tunnel - Crystalian
+- at the front of Crystalian's arena
+10. Old Altus Tunnel
+- before Stonedigger Troll's arena
+- at the entrance from Altus Plateau
+11. Old Altus Tunnel - Stonedigger Troll
+- at the front of Stonedigger Troll's arena
+12. Altus Tunnel
+- before Crystalian Duo's arena
+- at the entrance from Altus Plateau
+13. Altus Tunnel - Crystalian Duo
+- at the front of Crystalian Duo's arena
+14. Caelid - Gael Tunnel Start
+- at the entrance from Caelid
+15. Caelid - Gael Tunnel
+- before Magma Wyrm's arena
+16. Caelid - Gael Tunnel - Magma Wyrm
+- at the front of Magma Wyrm's arena
+17. Caelid - Rear Gael Tunnel
+- at the Gael Tunnel rear exit, North of the Third Church of Marika
+18. Caelid - Sellia Crystal Tunnel
+- before Fallingstar Beast's arena
+- at the entrance from Caelid
+19. Caelid - Sellia Crystal Tunnel - Fallingstar Beast
+- at the front of Fallingstar Beast's arena
+20. Consecrated Snowfield - Yelough Anix Tunnel
+- before Astel, Stars of Darkness' arena
+- at the entrance from Consecrated Snowfield
+21. Consecrated Snowfield - Yelough Anix Tunnel - Astel, Stars of Darkness
+- at the front of Astel, Stars of Darkness' arena
